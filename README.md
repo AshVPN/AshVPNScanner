@@ -46,7 +46,7 @@ This tool finds the gold ones — automatically.
 
 ## 📥 Download
 
-> **[⬇ Download Latest Release]([[../../releases/latest](https://github.com/AshVPN/AshVPNScanner/releases/latest)](https://github.com/AshVPN/AshVPNScanner/releases/tag/v1.0))**
+> **[⬇ Download Latest Release](https://github.com/AshVPN/AshVPNScanner/releases/tag/v1.0)**
 
 Just download `AshVPNScanner_V1.exe` — that's it.
 
