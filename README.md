@@ -52,7 +52,7 @@ Just download `AshVPNScanner_V1.exe` — that's it.
 ### Step 1 — Run it
 Open PowerShell in the folder where you saved the `.exe`:
 ```
-.\MRASHVPN_Tester.exe
+.\AshVPNScanner_V1.exe
 ```
 > ⚠️ First run? It extracts xray and creates folders automatically. Takes 3 seconds.
 
